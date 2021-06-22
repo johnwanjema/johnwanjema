@@ -14,7 +14,7 @@
 **Languages and Tools:**
 
 <p>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <br />
