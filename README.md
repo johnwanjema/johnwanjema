@@ -13,9 +13,9 @@
 <p align="center">
     <i><b>GitHub Stats</b></i>
 </p>
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="John Wanjema" />
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="John Wanjema" />
 
-<img width="60%" alt="John Wanjema github stats" src="https://github-readme-stats.vercel.app/api?username=johnwanjema&show_icons=true&hide_border=true"/>
+<img align="right" alt="John Wanjema github stats" src="https://github-readme-stats.vercel.app/api?username=johnwanjema&show_icons=true&hide_border=true"/>
 
 <hr />
 
