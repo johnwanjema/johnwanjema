@@ -17,6 +17,4 @@
 
 <img align="right" alt="John Wanjema github stats" src="https://github-readme-stats.vercel.app/api?username=johnwanjema&show_icons=true&hide_border=true"/>
 
-<hr />
-
 
