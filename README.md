@@ -12,11 +12,11 @@
 
 ### Github Activity ✔:
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/johnwanjema">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwanjema&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/johnwanjema">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnwanjema&show_icons=true&theme=tokyonight&line_height=27" alt="Wanjema's github stats"/>
 </a>
 
