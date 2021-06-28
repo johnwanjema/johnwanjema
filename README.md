@@ -9,7 +9,7 @@
 - A Full-stack Dev working with Django Python Framework, PHP Laravel Framework + Vue Js
 - Fun fact: There is no cloud its someones else computer
 
-[![Stackoverflow](https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg)](https://stackoverflow.com/users/11614043/wanje)
+[![Stackoverflow](https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg)](https://stackoverflow.com/users/11614043/wanje)
 
 ### Github Activity ✔:
 
