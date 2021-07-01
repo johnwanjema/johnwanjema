@@ -10,8 +10,11 @@
 - Fun fact: There is no cloud its someones else computer
 
 
+<h3>Where to find me</h3>
+<p><a href="https://www.linkedin.com/in/john-wanjema-b95930192/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://stackoverflow.com/users/11614043/wanje"
+target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+</p>
 
-[![Stackoverflow](https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg)](https://stackoverflow.com/users/11614043/wanje)
 
 ### Github Activity ✔:
 
@@ -24,7 +27,4 @@
 </a>
 <br>
 
-<h3>Where to find me</h3>
-<p><a href="https://www.linkedin.com/in/john-wanjema-b95930192/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://stackoverflow.com/users/11614043/wanje"
-target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-</p>
+
